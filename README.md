@@ -16,3 +16,11 @@ A full-stack ASP.NET Core MVC application for managing users with a SQL Server d
 - Delete users
 - Database integration
 - Responsive UI
+
+## Images
+- Main Page
+<img width="1389" height="863" alt="image" src="https://github.com/user-attachments/assets/210e39ab-cb77-42e8-ad8f-8eab91b54fc7" />
+
+- Altering Data
+<img width="695" height="410" alt="image" src="https://github.com/user-attachments/assets/87cf7725-bab8-4814-81ae-0404d5f9f15c" />
+
